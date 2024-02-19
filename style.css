@@ -1,0 +1,156 @@
+@import url('https://fonts.googleapis.com/css2?family=Young+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Outfit&display=swap');
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+* {
+  background: rgb(247, 235, 215); 
+}
+
+.box {
+  width: 500px;
+  height: 1700px;
+  margin: 0 auto;
+  margin-top: 20px;
+  border: 1px black;
+  border-radius: 50px;
+  background-color: white;
+  padding: 20px;
+  font-family: "Outfit", sans-serif;
+  font-weight: 400;
+}
+
+
+.header {
+  background-color: white;
+  text-align: center;
+  font-family: "Young Serif", sans-serif;
+  font-weight: 400;
+}
+
+
+
+img {
+  height: 200px;
+}
+
+.image {
+  margin-top: 20px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  background-color: white;
+}
+
+p {
+  background-color: white;
+  font-size: 15px;
+}
+
+.prep-Time {
+  background-color: rgb(255, 255, 255);
+  height: 100px;
+  border: 1px;
+  font-size: 16px;
+}
+
+.prep-Time h4 {
+  padding-left: 20px;
+  padding-top: 20px;
+  font-family: "Young Serif", sans-serif;
+  font-size: 20px;
+}
+
+.prep-Time ul, li {
+  padding-bottom: 10px;
+}
+
+.prep-Time h4, ul, li, strong {
+  background-color: inherit;
+}
+
+.Ingredients {
+  margin-top: 70px;
+  height:  100px;
+  background-color: rgb(255, 255, 255);
+}
+
+.Ingredients h4 {
+  padding-left: 20px;
+  padding-top: 20px;
+  font-family: "Young Serif", sans-serif;
+  font-size: 20px;
+  background-color: white;
+}
+
+.Instructions {
+  margin-top: 140px;
+  background-color: white; 
+}
+
+.Instructions h4 {
+  padding-left: 20px;
+  padding-top: 20px;
+  font-family: "Young Serif", sans-serif;
+  font-size: 20px;
+  background-color: white;
+}
+
+.Instructions ol {
+  background-color: white;
+  height: 100px;
+}
+
+.Nutrition {
+  margin-top: 280px;
+  background-color: white;
+}
+
+.Nutrition h4 {
+  padding-left: 20px;
+  padding-top: 20px;
+  font-family: "Young Serif", sans-serif;
+  font-size: 20px;
+  background-color: white;
+}
+
+.Nutrition p {
+  padding-left: 20px;
+}
+
+.Nutrition {
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+}
+
+.table {
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+}
+
+.row {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 5px; 
+  background-color: white;
+}
+
+.row p {
+  margin-right: 10px; 
+  background-color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
